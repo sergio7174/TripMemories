@@ -46,6 +46,7 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 <img src="./PROJECT IMAGES/IMAGE02.jpg" alt="project screenshot02" />
 <img src="./PROJECT IMAGES/IMAGE03.jpg" alt="project screenshot03" />
 <img src="./PROJECT IMAGES/IMAGE04.jpg" alt="project screenshot04" />
+<img src="./PROJECT IMAGES/IMAGE05.jpg" alt="project screenshot05" />
 <br>
 
 ##  Key Features:
@@ -54,6 +55,7 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 - Authentication. 
 - Add, edit, delete Notes.
 - Email and Password Validation.
+- displaying your favorite places.
 
   
 <br/>
