@@ -7,12 +7,7 @@ import {getFirestore, collection} from 'firebase/firestore';
 // Your web app's Firebase configuration
 const firebaseConfig = {
 
-  apiKey: "AIzaSyAVhQ-FKyUoJManWjYzKD3i6ma4esy2nIM",
-  authDomain: "authfirebase01.firebaseapp.com",
-  projectId: "authfirebase01",
-  storageBucket: "authfirebase01.appspot.com",
-  messagingSenderId: "578717810437",
-  appId: "1:578717810437:web:f182d87e319de7e412816c"
+  //git add .your firebase project Data
 
 };
 
