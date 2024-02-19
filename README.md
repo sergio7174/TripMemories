@@ -1,4 +1,4 @@
-<h1 align ="center" > 🏆 TripMemories  </h1>
+<h1 align ="center" >🗺️🚘🛣️ TripMemories  </h1>
 <h1  align ="center"> 
 A travel app, to save trips memories using native device features, React Navigation, Redux and Redux-Thunk. </h1>
 <br>
