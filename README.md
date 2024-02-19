@@ -35,10 +35,6 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 ![Static Badge](https://img.shields.io/badge/expo-%23E89F28?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%23D1D1D1?style=for-the-badge)
 
-
-
-
-<br>
 ##  Screenshots:
 <br>
 <img src="./PROJECT IMAGES/IMAGE01.jpg" alt="project screenshot01" />
